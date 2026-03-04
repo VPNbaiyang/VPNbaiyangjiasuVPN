@@ -14,7 +14,7 @@
 * **邀请新用户注册送时长，邀请10个用户注册送一个月时长，27个用户送一个季度时长，邀请到了对应的用户，联系客服或者提交工单**。
 * **邀请新用户注册送时长，邀请10个用户注册送一个月时长，27个用户送一个季度时长，邀请到了对应的用户，联系客服或者提交工单**。
   
-👉 **[立即点击注册：全新官网 (含最新优惠)](https://baiyangjiasu.com/register?invite=2T8KwEZa)**
+👉 **[立即点击注册：全新官网 (含最新优惠)](https://baiyangjiasu.com/register?invite=RWqaczzt)**
 *(新人福利码：`BYAE7A9799B9F6` | 下载APP -> 右上角兑换)*
 
 
@@ -91,7 +91,7 @@ MIT License
 相比于 **Clash for Windows**、 **Clash Verge** 或 **v2rayN**，本工具专注于格式转换。如果您使用 **Shadowrocket (小火箭)**、**Quantumult X** 或 **Surge**，本工具生成的订阅同样适用。
 
 #### 🚀 替代方案与竞品对比
-如果您正在寻找 **ExpressVPN**、**快连VPN（太贵）**、**快速VPN**、**NordVPN** 或 **PandaVPN (熊猫加速器)** 的免费平替，建议尝试使用开源协议（如 **Hysteria2**, **VLESS**, **Trojan**）搭配本工具使用，速度通常优于传统 VPN。
+如果您正在寻找 **ExpressVPN**、墙洞(dlercloud跑路)、奶昔（最近在挨打）、**快连VPN（太贵）**、**快速VPN**、**NordVPN** 或 **PandaVPN (熊猫加速器)** 的免费平替，建议尝试使用开源协议（如 **Hysteria2**, **VLESS**, **Trojan**）搭配本工具使用，速度通常优于传统 VPN。
 
 #### 💡 适用场景
 完美解决 **ChatGPT**、**Gemini 3 pro** 访问限制、解锁 **Netflix** 区域限制、**YouTube 4K** 缓冲慢等问题。支持 **Windows**、**Android**、**iOS** 全平台订阅转换。
